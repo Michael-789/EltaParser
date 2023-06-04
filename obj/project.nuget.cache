@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4bTGEClCSgVUvLCKmFC1DwtuNv8+Ze30dT6rVD4sXhkx2NOrqGt93AFDckeKpkF/+o+TFC0MxmCq9NMzRFoOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\EltaParser\\EltaParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
